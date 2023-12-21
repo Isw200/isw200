@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iws200&label=Profile%20views&color=0e75b6&style=flat" alt="iws200" /> </p>
 
-- 🔭 I’m currently working on **Yasalanka LMS**
+- 🔭 I’m currently working on **Xternship**
 
 - 🌱 I’m currently learning **React Native, Azure**
 
