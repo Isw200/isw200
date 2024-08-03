@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native, Azure**
 
-- 👨‍💻 All of my projects are available at [https://isw200.github.io/isuru-ariyarathna/](https://isw200.github.io/isuru-ariyarathna/)
+- 👨‍💻 All of my projects are available at [www.isuruariyarathna.me](https://www.isuruariyarathna.me/)
 
 - 💬 Ask me about **React Js, Firebase, Azure**
 
