@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.isuruariyarathna.me](https://www.isuruariyarathna.me/)
 
-- 💬 Ask me about **React Js, Firebase, Azure**
+- 💬 Ask me about **React Js, React Native, Node Js, Azure**
 
 - 📫 How to reach me **isuruariyarathna2000@gmail.com**
 
