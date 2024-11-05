@@ -31,8 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isw200&show_icons=true&locale=en&layout=compact" alt="isw200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isw200&show_icons=true&locale=en" alt="isw200" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isw200&" alt="isw200" /></p>
 
 
